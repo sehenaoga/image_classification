@@ -8,7 +8,7 @@
 _CSE 382M: Foundatios of Data Science - University of Texas at Austin 2022_
 
 
-## Data set
+## Dataset
 **[resisc45](https://www.tensorflow.org/datasets/catalog/resisc45)**: Has to be downloaded from [OneDrive](https://1drv.ms/u/s!AmgKYzARBl5ca3HNaHIlzp_IXjs) and then extracted manually. No images shall be uploaded to GitHub.
 
 ## References
