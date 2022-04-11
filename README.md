@@ -5,7 +5,7 @@
 * Sebastian Henao-Garcia
 * Vignesh Sella
 
-_CSE 382M: Foundatios of Data Science - University of Texas at Austin 2022_
+_CSE 382M: Foundations of Data Science - University of Texas at Austin 2022_
 
 
 ## Dataset
